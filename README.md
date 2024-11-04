@@ -30,4 +30,4 @@ The corresponding executable is inside the `build` directory
 
 # Usage
 
-Copy the executable (and dlls on Windows, if applicable) in a directory where you have the `mp4` videos and within a terminal, run `./remove_audio_all` or equivalent on Wiindows. On Windows, you can also double click the executable.
+Copy the executable (and dlls on Windows, if applicable) in a directory where you have the `mp4` videos and, within a terminal, run `./remove_audio_all` or equivalent on Wiindows. On Windows, you can also double click the executable.
