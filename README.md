@@ -26,8 +26,8 @@ The corresponding executable is inside the `build` directory
 
 - Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). Make sure that it installs CMake and VCPK
 - Open the folder as a project
-- Build the project (it will create the executable `remove_audio_all`
+- Build the project (it will create the executable `remove_audio_all`)
 
 # Usage
 
-Copy the executable in a directory where you have the `mp4` videos and within a terminal, run `./remove_audio_all` or equivalent on Wiindows. On Windows, you can also double click the executable.
+Copy the executable (and dlls on Windows, if applicable) in a directory where you have the `mp4` videos and within a terminal, run `./remove_audio_all` or equivalent on Wiindows. On Windows, you can also double click the executable.
