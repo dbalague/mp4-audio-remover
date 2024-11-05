@@ -11,7 +11,7 @@ Remove audio from MP4 videos. Written with help from ChatGPT
 
 - Install and configure [VCPKG](https://learn.microsoft.com/en-gb/vcpkg/get_started/get-started?pivots=shell-bash) (Steps 1 and 2 only)
 
-- Clone and install this repo:
+- Clone or download and then install this repo:
 
 ```bash
 git clone https://github.com/dbalague/mp4-audio-remover.git
@@ -24,8 +24,9 @@ The corresponding executable is inside the `build` directory
 
 ## Windows
 
-- Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). Make sure that it installs CMake and VCPK
-- Open the folder as a project
+- Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). Make sure that install *Desktop development with C++* and make sure that the *vcpkg package manager* and *C++ CMake tools for Windows* are checked.
+- Download or clone this repo.
+- Open the folder containing the files of this repo as a project (the first time VS will download a lot of packages).
 - Build the project (it will create the executable `remove_audio_all`)
 
 # Usage
