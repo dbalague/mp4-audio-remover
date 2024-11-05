@@ -28,6 +28,7 @@ The corresponding executable is inside the `build` directory
 - Download or clone this repo.
 - Open the folder containing the files of this repo as a project (the first time VS will download a lot of packages).
 - Build the project (it will create the executable `remove_audio_all`)
+- The corresponding executable and dlls are in the `build` directory
 
 # Usage
 
