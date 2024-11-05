@@ -24,7 +24,7 @@ The corresponding executable is inside the `build` directory
 
 ## Windows
 
-- Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). Make sure that install *Desktop development with C++* and make sure that the *vcpkg package manager* and *C++ CMake tools for Windows* are checked.
+- Install [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). Make sure to check *Desktop development with C++* and that the *vcpkg package manager* and *C++ CMake tools for Windows* options are checked.
 - Download or clone this repo.
 - Open the folder containing the files of this repo as a project (the first time VS will download a lot of packages).
 - Build the project (it will create the executable `remove_audio_all`)
